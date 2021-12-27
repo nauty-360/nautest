@@ -1,19 +1,19 @@
 ## Problema 
 
-Se te entregan ${n}$ palabras en una cadena de texto. Algunas palabras pueden repetirse. Por cada palabra, muestra su número de ocurrencias. El orden de salida debe corresponder con el orden de aparición en la cadena de entrada. Para mayor claridad, por favor lee el ejemplo de entradas y salidas en la parte inferior.
+Se te entregan <img src="https://render.githubusercontent.com/render/math?math=n"> palabras en una cadena de texto. Algunas palabras pueden repetirse. Por cada palabra, muestra su número de ocurrencias. El orden de salida debe corresponder con el orden de aparición en la cadena de entrada. Para mayor claridad, por favor lee el ejemplo de entradas y salidas en la parte inferior.
 
 **Nota:** cada fin de línea es indicado con un caracter de retorno ("\n")
 
 ### Restricciones:
 
-$1 \ge n \ge {10^5}$ 
+<img src="https://render.githubusercontent.com/render/math?math=1\ge%20n%20\ge%2010^5">
 
-La suma del largo de todas las palabras no excede $10^6$. Todas las palabras se componen de letras del alfabeto inglés (sin acentos ni ñ).
+La suma del largo de todas las palabras no excede <img src="https://render.githubusercontent.com/render/math?math=10^6">. Todas las palabras se componen de letras del alfabeto inglés (sin acentos ni ñ).
 
 ### Formato de ingreso de datos
-La primer linea contiene el número entero, $n$
+La primer linea contiene el número entero, <img src="https://render.githubusercontent.com/render/math?math=n">
 
-Las siguientes $n$ líneas contienen una palabra cada una.
+Las siguientes <img src="https://render.githubusercontent.com/render/math?math=n"> líneas contienen una palabra cada una.
 
 ### Formato de salida
 Debes mostrar 2 líneas de salida.
@@ -24,6 +24,7 @@ En la segunda línea, debes mostrar el numero de ocurrencias de cada palabra dis
 
 ### Ejemplo de entrada:
 
+```
 6
 barco
 casa
@@ -31,11 +32,14 @@ barco
 perro
 lote
 lote
+```
 
 ### Ejemplo de salida
 
+```
 4
 2 1 1 2
+```
 
 ### Explicación
 
