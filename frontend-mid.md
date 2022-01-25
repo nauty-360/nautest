@@ -9,15 +9,16 @@ Tomando como base la API de ["The Movie DB"](https://developers.themoviedb.org/3
 ### Requerimientos:
 
 - La maquetación del sitio se debe realizar sin utilizar librerías externas.
+- No es necesario realizar animaciones ni menús desplegables, solamente se requiere la vista de grilla y uno que otro botón que demuestre el buen uso de CSS
 - Las opciones que se muestran en los menús no deben funcionar y solo se deben mostrar para imitar la interfaz de la aplicación.
-- Se debe poder filtrar las películas por nombre.
+- Se debe poder filtrar las películas por nombre. Esto se puede hacer desde un input ubicado posterior al menú
 - No se requiere métodos de autenticación para ingresar a la aplicación.
-- Debes hacer uso de un framework de pruebas (Jest, Cypress, otros)
 - Hacer buen uso de GIT/GitFlow. No encapsular todo en un único commit.
 
 ### Puntos extra si:
 
 - Maquetas haciendo uso de flex grids
+- Haces uso de un framework de pruebas (Jest, Cypress, otros)
 - Subes el sitio a algún proveedor de hosting (surge.sh, heroku, otros)
 - Creas el archivo docker/docker compose para facilitar el despliegue
 - Simulas el CI/CD haciendo uso de algún proveedor (Jenkins, CircleCI, otros)
