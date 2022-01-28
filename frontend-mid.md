@@ -24,4 +24,4 @@ Tomando como base la API de ["The Movie DB"](https://developers.themoviedb.org/3
 - Simulas el CI/CD haciendo uso de algún proveedor (Jenkins, CircleCI, otros)
 - Muchos puntos extra si: creas la infraestructura en AWS o GCP (de forma manual o automatizada)
 
-No hay límite de tiempo para entregar la prueba, pero es importante demostrar el progreso realizado con los commit de GIT.
+El límite de tiempo para entregar la prueba es de 3 días a partir de la fecha de inicio de la misma y se verificará en github el progreso del desarrollo llevado a cabo.
